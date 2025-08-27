@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.opensdf
+*.tlog
+*.sdf
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+
+# .NET
+bin/
+obj/
